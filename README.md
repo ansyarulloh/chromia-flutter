@@ -1,7 +1,3 @@
-Ini contoh draf `README.md` yang profesional buat repo **Flutter** lu, disesuaikan dengan gaya *boilerplate* yang lu suka (mengacu pada standar dokumentasi yang ada).
-
----
-
 # Chromia Mobile (Flutter)
 
 A performant, cross-platform mobile application for **Chromia**, featuring a seamless user experience, AI-powered interactions, and robust state management.
