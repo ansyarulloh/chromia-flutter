@@ -1,0 +1,29 @@
+name: cromia_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.6.0
+  shared_preferences: ^2.5.5
+  # Tambahin ini biar tulisan lu makin pro
+  google_fonts: ^6.2.1 
+  image_picker: ^1.2.3
+  timeago: ^3.7.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  # Nanti kalau lu punya file gambar/logo, buka komen di bawah ini
+  # assets:
+  #   - assets/images/
